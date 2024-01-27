@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Walid Rachedi I changed my mind about web development after discovering modern web design tools like Vue, React, & Angular. My love for front-end development increases the more ideas I have about apps to build. 
-I'm currently on the lookout for a role in frontend web development, ideally writing Javascript. I'd especially love to work at a startup on a tight-knit team where I can make an impact quickly. If you're hiring, let's chat!
+I'm currently on the lookout for a remote (UTC +1) role in frontend web development, ideally writing Javascript. I'd especially love to work at a startup on a tight-knit team where I can make an impact quickly. If you're hiring, let's chat!
 
 Proficient with:
 - Javascript <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
