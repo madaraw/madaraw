@@ -15,6 +15,6 @@ I'm currently looking for a role in front-end web development, ideally writing J
 <img src="https://img.shields.io/badge/-Python-161b22?style=flat-square?label=Python&logo=Python" alt="Javascript">
 <img src="https://img.shields.io/badge/-Typescript-161b22?style=flat-square?label=Typescript&logo=Typescript" alt="Typescript">
 <img src="https://img.shields.io/badge/-React.js-161b22?style=flat-square?label=React.js&logo=react" alt="React.js">
-<img src="https://img.shields.io/badge/-cplusplus-161b22?style=flat-square?label=C++&logo=cplusplus" alt="C++">
+<img src="https://img.shields.io/badge/-C++-161b22?style=flat-square?label=C++&logo=cplusplus" alt="C++">
 </p>
 
