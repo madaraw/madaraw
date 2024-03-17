@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-I'm Walid Rachedi I changed my mind about web development after discovering modern web design tools like Vue, React, & Angular. My love for front-end development increases the more ideas I have about apps to build. 
-I'm currently on the lookout for a role in frontend web development, ideally writing Javascript. I'd especially love to work at a startup on a tight-knit team where I can make an impact quickly. If you're hiring, let's chat!
+I'm Walid Rachedi I changed my mind about web development after discovering modern web design tools like Vue, React, & Angular. My love for front-end development increases the more ideas I have about building apps. 
+I'm currently looking for a role in front-end web development, ideally writing Javascript. I'd love to work at a startup on a tight-knit team where I can quickly make an impact. If you're hiring, let's chat!
 
-Proficient with:
-- Javascript <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-- VueJS <code><img height="20" alt="vuejs" src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png"></code>
-- NuxtJS <code><img height="20" alt="nuxtjs" src="https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png"></code>
+<p align="center">Profecient in:</p>
+<p align="center"> 
+<img src="https://img.shields.io/badge/-Javascript-161b22?style=flat-square?label=Javascript&logo=Javascript" alt="Javascript">
+<img src="https://img.shields.io/badge/-Vue.js-161b22?style=flat-square?label=Vue.js&logo=Vue.js" alt="Vue.js">
+<img src="https://img.shields.io/badge/-Nuxt.js-161b22?style=flat-square?label=Nuxt.js&logo=Nuxt.js" alt="Nuxt.js">
+</p>
 
+<p align="center">Worked with:</p>
+<p align="center"> 
+<img src="https://img.shields.io/badge/-Python-161b22?style=flat-square?label=Python&logo=Python" alt="Javascript">
+<img src="https://img.shields.io/badge/-Typescript-161b22?style=flat-square?label=Typescript&logo=Typescript" alt="Typescript">
+<img src="https://img.shields.io/badge/-React.js-161b22?style=flat-square?label=React.js&logo=react" alt="React.js">
+<img src="https://img.shields.io/badge/-cplusplus-161b22?style=flat-square?label=C++&logo=cplusplus" alt="C++">
+</p>
 
-Worked with:
-- Python <code><img height="20" alt="python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"></code>
-- Typescript <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-- React <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-- C++ <code><img height="20" alt="c++" src="https://codeprogramming.org/wp-content/uploads/2022/01/C-Logo.wine_.png"></code>
